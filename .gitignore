@@ -15,3 +15,12 @@ server.pid
 *.eml
 /dist/
 .cache
+# Ignore from template
+.history
+/.idea
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
